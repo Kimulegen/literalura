@@ -9,6 +9,12 @@
 - Análisis temporal de autores
 - Interfaz de consola intuitiva
 
+</br>
+
+**ATENCIÓN**
+
+El sistema solo guardará el primer libro encontrado en su búsqueda
+
 ## 🛠️ Tecnologías Utilizadas
 
 - Java 17
